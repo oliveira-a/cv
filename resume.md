@@ -5,7 +5,7 @@
 
 **Languages**: Go, .NET/C#, Java, Python, JS, TS, SQL, PowerShell, Bash
 
-**Frameworks and Libraries**: Dapper, Node.js, ASP.NET, Angular, LINQ
+**Frameworks and Libraries**: Dapper, Node.js, ASP.NET, Angular, LINQ, Android
 
 **Tools**: Linux, Docker, Git, NUnit, XUnit, Specflow, Jira, DevOps (CI/CD), Azure Cloud Services, SonarCloud, JWT
 
@@ -30,6 +30,11 @@
 * Helped with the development of a new custom **Java ERP** application, designed for producing quotes on hand-made shopping bags
 * Acquired working knowledge of enterprise **Java** applications and **JSF**
 
+### Web Developer Intern | Klekoo (June 2019 to August 2019)
+
+* Helped with front-end development of e-commerce and marketing websites using HTML, CSS and JavaScript
+* Worked with **Less** and **SASS** compiling **CSS** and **Bootstrap**
+
 ## Projects
 
 ### CHIP-8 Emulator
@@ -37,6 +42,12 @@ https://github.com/olveira-a/chip8
 
 * Developed an emulator, as a personal project, in **C++**, to run CHIP-8 games
 * Used SDL2 for the graphic interface
+
+### ThinKarbon
+
+* Developed an Android application, as my degree's final major project, that tracks user's individual **CO2 emissions**
+* Designed the application using the **decorator** pattern to allow extensibility for new emission causing activities that involve different calculating formulas, such as eating at restaurant or taking public transport
+* Applied gamification with the purpose of nudging the user towards an environmental friendly behaviour, by introducing a score system
 
 ## Education
 
