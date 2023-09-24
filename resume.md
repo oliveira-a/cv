@@ -32,5 +32,3 @@ can be customised by the client.
 ### Bachelors of Science | Solent University (2020)
 Awarded a degree in _Software Engineering_ with **2:1**.
 
-## REFERENCES
-References available on request.
