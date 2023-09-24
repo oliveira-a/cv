@@ -1,34 +1,44 @@
 # André Brasil
-07761751540 | andremiguebrasil@gmail.com | https://andreb.net
++44 7761 751540 | andremiguebrasil@gmail.com | https://andreb.site
 
-## SKILLS
-**Go, C, C#/.NET, Linux, Python, JS/TS, SQL & NoSQL, Agile**
+## Skills
 
-## WORK EXPERIENCE
+**Languages**: Go, .NET/C#, Java, Python, JS, TS, SQL, PowerShell, Bash
 
-### Software Engineer | Quilter Plc. (Jul 2022 to Present)
-British multinational wealth management company:
+**Frameworks and Libraries**: Dapper, Node.js, ASP.NET, Angular, LINQ
 
-* Design and develop **.NET REST APIs** for integrations within Quilter's internal systems;
-* Develop **.NET** applications to the support business needs;
-* Carry out **TDD** during development using popular frameworks.
+**Tools**: Linux, Docker, Git, NUnit, XUnit, Specflow, Jira, DevOps (CI/CD), Azure Cloud Services, SonarCloud, JWT
 
-### Software Engineer | Pear Technology Ltd. (Oct 2020 to Jul 2022)
-Mapping software solutions company as well as map production.
+## Work experience
 
-* Proficiency **in C#/.NET** and **WinForms**;
-* Experienced both **TFVC** and **Git** by helping the team migrating the code base to a Git repository in **Azure DevOps**;
-* Reduced time by **95.8%** on application start-up by implementing a multi-threaded solution for project loading.
+### Software Engineer | Quilter Plc. (July 2022 to present)
 
-### Software Engineer | Taffarello Spa. (Aug 2019 to Jul 2020)
-Supplier of shopping bags for many brands. Taffarello delivers quality and environment safe paper bags that
-can be customised by the client.
+* Designed and implemented **Azure Function Apps** for third-party software integration
+* Implemented **CI/CD** pipelines using **Azure DevOps** for incremental deployments and automated testing
+* Created an **Angular** web application, using **TypeScript**, for **Apigee** log monitoring
+* Developed a python application for automating reports on version controlled projects and their SonarCloud statistics, using a pipeline oriented architecture with the help of **functools** library
 
-* Acquired working knowledge of enterprise **Java** applications;
-* Developing existing programs by analysing and identifying areas of modification.
+### Software Engineer | Pear Technology Ltd. (October 2020 to July 2022)
 
-## EDUCATION
+* Maintained and added new features to the in-house mapping software built with **WinForms**
+* Migrated the source code to work with a major library version upgrade that allowed for considerably faster map rendering times, allowing for an overall improvement in user experience
+* Reduced time by **95.8%** on application start-up by implementing a multi-threaded solution for project loading
+* Experienced both **TFVC** and **Git** by helping the team migrating the code base to a Git repository in **Azure DevOps**
+
+### Software Engineer | Taffarello Spa. (August 2019 to July 2020)
+
+* Helped with the development of a new custom **Java ERP** application, designed for producing quotes on hand-made shopping bags
+* Acquired working knowledge of enterprise **Java** applications and **JSF**
+
+## Projects
+
+### CHIP-8 Emulator
+https://github.com/olveira-a/chip8
+
+* Developed an emulator, as a personal project, in **C++**, to run CHIP-8 games
+* Used SDL2 for the graphic interface
+
+## Education
 
 ### Bachelors of Science | Solent University (2020)
 Awarded a degree in _Software Engineering_ with **2:1**.
-
